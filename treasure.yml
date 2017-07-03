@@ -1,6 +1,6 @@
 configuration:  
-  projectName: configclient
+  projectName: treasureWx
 server:
-  port: 8000
+  port: 80
 message:
 greeting: Hello from the configuration!
