@@ -1,5 +1,5 @@
 configuration:  
-  projectName: treasureWx
+  projectName: treasure
 server:
   port: 80
 message:
